@@ -1,19 +1,18 @@
 <p align="center">
 <img src="./assets/img/nlw-esports-logo.svg" alt="Next Level Week Esports Logo"/></p>
 
-<br>
+# :pushpin: Table of Contents
+
+* [Features](#rocket-features)
+* [Installation](#construction_worker-installation)
+* [License](#closed_book-license)
+
 <br>
 
-  - [Description](#description)
-  - [Stack and tools](#stack-and-tools)
-  - [Quickstart](#quickstart)
-
-<br>
-
-## Description
+# :rocket: Features
 
 The project is called *Find your Duo*.
-It is a platform to find the perfect partner to play your favorite game together, by connecting your Twitch.tv account.
+It is a platform to find the perfect partner to play your favorite game together, by connecting your Discord account.
 
 <p align="center">
 <img src="./assets/img/app-preview.jpeg" alt="Next Level Week Esports Logo"/></p>
@@ -66,9 +65,14 @@ $ expo start
 ```
 
 # :construction: Work in Progress
+
 This project is still under progress, feel free to contribute.
+
+# :closed_book: License
 
 Released in 2022.
 This project is under the [MIT license](https://github.com/Artur-Ceschin/NLW-eSports/main/LICENSE).
-Made with love by [Artur Ceschin](https://github.com/Artur-Ceschin)🚀
-Inspired by [joaofmartinho README](https://github.com/joaofmartinho/nlw-esports)
+
+Made by [Artur Ceschin](https://github.com/Artur-Ceschin)🚀
+
+Inspired by [Laura Beatris README](https://github.com/LauraBeatris)
